@@ -1,0 +1,17 @@
+Exercicios em python
+O que cada exercicio contêm:
+Exercicio 001 - impressão na tela
+Exercicio 002 - Interação com o usuário perguntando o nome
+Exercicio 003 - interação com o usuário somando números
+Exercicio 004 - Dissecando uma variável
+Exercicio 005 - Antecessor e Sucessor de um número
+Exercicio 006 - Dobro, triplo e Raiz quadrada de um número
+Exercicio 007 - Calculando média aritmética
+Exercicio 008 - Transformando medidas
+Exercicio 009 - Tabuada de multiplicação
+Exercicio 010 - Convertendo valores de real para dolar
+Exercicio 011 - Pintar parede
+Exercicio 012 - Calculando desconto de 5%
+Exercicio 013 - Reajuste de salário de mais 15%
+Exercicio 014 - Convertendo medidas de temperatura
+Exercicio 015 - Calculando aluguel de carro
